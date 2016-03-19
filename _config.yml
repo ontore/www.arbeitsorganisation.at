@@ -84,3 +84,10 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+defaults:
+  -
+    scope:
+      path: "_posts" # empty string for all files
+    values:
+      layout: "post"
