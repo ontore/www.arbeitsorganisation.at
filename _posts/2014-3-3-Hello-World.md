@@ -1,3 +1,0 @@
-Erster Absatz
-
-Zweiter Absatz
