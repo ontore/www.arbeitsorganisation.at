@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Informationen zur Arbeitsorganisation
+Ontore: A friend
